@@ -25,15 +25,15 @@ disqus_shortname:
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 2dd7b9 #80B3FF
-  primary-rgb: "45,215,185" #"128,179,255"
-  secondary: 48597a #FD6E8A
-  secondary-dark: 001846 #A2122F
+  primary: 000022 #80B3FF
+  primary-rgb: "0,0,34" #"128,179,255"
+  secondary: e28413 #FD6E8A
+  secondary-dark: fbf5f3 #A2122F
 
 # Footer settings
 footer:
-  copyright: Beau Gilbert
-  location: Location
+  copyright: Md Touhidul Islam Sayhan
+  location: Manchester, Connecticut, United State
   social: Around the Web
   credits: Credits
 
