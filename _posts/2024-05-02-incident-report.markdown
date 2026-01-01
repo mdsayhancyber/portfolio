@@ -6,7 +6,7 @@ img: incident.png
 alt: image-alt
 
 # Reminder: Update this link with your own project link
-project-url: https://docs.google.com/document/d/1SGKlcoRkGmLJH6X0p8qfO10ijFduUtfzvINqFogTZdw/edit?usp=sharing
+project-url: https://drive.google.com/drive/folders/1hT-8kpKDjmMJqsfl9fPyVJlqF-mmSuTG?usp=sharing
 
 description: Identified DDoS attack, scope of incident, potential network vulnerabilities and protection measures, and properly documented analysis and recovery plans in order to restore normal operations and maintain alignment with NIST CSF best practices.
 ---
