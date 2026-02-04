@@ -7,7 +7,8 @@ alt: image-alt
 
 # Reminder: Update this link with your own project link
 project-url: https://drive.google.com/drive/folders/1lxG5e4AwH1pkmj1w7PpasZGFTFTx2ya3?usp=sharing
-description: >
-  Implemented various SQL JOIN operations (INNER, LEFT, RIGHT, SELF, CROSS)
-  along with UNION and UNION ALL to combine and analyze data across multiple tables.
+
+description: Implemented various SQL JOIN operations (INNER, LEFT, RIGHT, SELF, CROSS) along with UNION and UNION ALL to combine and analyze data across multiple tables.
+
+---
 
