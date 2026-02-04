@@ -8,4 +8,4 @@ alt: image-alt
 # Reminder: Update this link with your own project link
 project-url: https://drive.google.com/drive/folders/1lxG5e4AwH1pkmj1w7PpasZGFTFTx2ya3?usp=sharing
 # Once you've completed your project, update the 'description' below to this one: Implemented various JOIN commands (inner, left, right, self, and cross) in MySQL, utilizing UNION and UNION ALL to efficiently combine and query data from multiple tables.
-description: This SQL query uses JOINs to combine related tables and applies WHERE conditions to filter specific records. Aggregate functions such as COUNT and SUM are used alongside GROUP BY and HAVING clauses to analyze trends and generate summarized results.
+description: 
