@@ -8,5 +8,4 @@ alt: image-alt
 # Reminder: Update this link with your own project link
 project-url: https://drive.google.com/drive/folders/1lxG5e4AwH1pkmj1w7PpasZGFTFTx2ya3?usp=sharing
 # Once you've completed your project, update the 'description' below to this one: Implemented various JOIN commands (inner, left, right, self, and cross) in MySQL, utilizing UNION and UNION ALL to efficiently combine and query data from multiple tables.
-description: This project is in progress and not ready to be published just yet. Please contact me if you'd like a sneak peek. Otherwise, stay tuned!
----
+description: This project demonstrates my hands-on experience with SQL queries used for data retrieval, analysis, and reporting. I worked with structured datasets to extract meaningful insights using industry-standard SQL techniques. The goal of this project is to showcase my ability to write efficient, clean, and optimized SQL queries for real-world scenarios.
